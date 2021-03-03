@@ -1,2 +1,3 @@
 # hello-world
-Practice repo
+
+Hello! Here I am (hopefully) learning how to use a brach in git!
